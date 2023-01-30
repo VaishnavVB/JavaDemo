@@ -5,4 +5,9 @@ public class Addition {
         int y=4;
         System.out.println(x*y);
     }
+ {
+        int x=8;
+        int y=4;
+        System.out.println(x*y);
+    }
 }
